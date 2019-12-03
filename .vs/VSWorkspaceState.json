@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\views",
+    "\\src\\views\\head_bar",
+    "\\src\\views\\main_content",
+    "\\src\\views\\task",
+    "\\src\\views\\task\\add",
+    "\\src\\views\\task\\detail",
+    "\\src\\views\\task\\edit",
+    "\\src\\views\\task\\list",
+    "\\src\\views\\task\\list\\modules"
+  ],
+  "SelectedNode": "\\src\\views\\task\\list\\modules\\task-table.vue",
+  "PreviewInSolutionExplorer": false
+}
